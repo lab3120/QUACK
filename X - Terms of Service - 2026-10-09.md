@@ -3,14 +3,16 @@ title: X Terms of Service
 doc_type: source_mirror
 source_url: https://x.com/en/tos
 source_publisher: X Corp.
-effective_date: '2026-10-09'
-retrieved_at: '2026-11-22T17:08:24.159189-05:00'
+effective_date: 2026-10-09
+retrieved_at: 2026-11-22T17:08:24.159189-05:00
 source_html_sha256: ad432faf060aca45908a960826f3f66617297c143e89b168e8ab5dbd0b4a5fab
 format: Markdown conversion of the source page
 tags:
-- x
-- terms-of-service
-- source-mirror
+  - x
+  - terms-of-service
+  - source-mirror
+human_audited: true
+git_verity: https://github.com/lab3120/QUACK
 ---
 
 > Local Markdown copy of [X’s Terms of Service](https://x.com/en/tos), effective October 9, 2026. Includes the summary and both regional agreements. Linked incorporated policies remain external. Navigation and decorative page elements are omitted.
